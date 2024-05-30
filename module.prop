@@ -1,0 +1,7 @@
+id=magisk-tcpdump
+name=MagiskTCPDump
+version=0
+versionCode=0
+author=Niweera
+description=Setup TCPDump on Magisk
+updateJson=https://github.com/Niweera/magisk-tcpdump/releases/latest/download/updater.json
